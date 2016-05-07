@@ -1,0 +1,10 @@
+Init
+commit 1
+commit 2
+<<<<<<< 08927ee475b872c473b1740661d7de182bf0b2dc
+commit 0.4
+commit 0.4
+=======
+commit 0.3
+commit 0.3
+>>>>>>> Commit 3
